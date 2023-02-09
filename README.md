@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CharlyAndriani, I'm from Tucuman, Argentina 
-- 👀 I’m interested in QA and Full Stack Developer
-- 🌱 I’m currently learning QA and Tester in Egg Platform from Mendoza, Argentina
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Jr. QA/Tester living in Barcelona, Spain and currently learning Data Science.
 - 📫 You can reach me in my mail, charlyandriani@gmail.com
 
 <!---
